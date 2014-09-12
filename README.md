@@ -1,5 +1,8 @@
 Unstructured and Uninterpretable Computer Programs (or, my SICP workbook)
 
+Warning: In addition to being unstructured and uninterpretable, these
+solutions and notes are imperfect and incomplete.
+
 > Do not labor under the illusion that this is a text digestible at
 > MIT only, peculiar to the breed found there. It is precisely what a
 > serious book on programming Lisp must be, no matter who the student
@@ -11,3 +14,4 @@ Unstructured and Uninterpretable Computer Programs (or, my SICP workbook)
 > not suffice. Only doing the exercises will bring lasting shifts to
 > how you see and understand code.
 > — Kai Wu, [Why and How to Start Your SICP Trek](http://hackerretreat.com/why-how-start-sicp/)
+
